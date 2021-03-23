@@ -36,11 +36,12 @@ img {
   
   .navbar{
       position: absolute;
-      right: 100px;
+      right: 10px;
+      
   }
   
   .navbar a{
-    background-color:white;
+    background-color:lightseagreen;
   }
   
   body {
@@ -54,12 +55,13 @@ img {
   } 
   
   .homebtn{
-    background-color: white;
+    background-color: lightgrey;
     z-index:2;
+    color: white;
   }
   
   .homebtn a{
-    width: 110px;
+    width: 200px;
     background: lightseagreen;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
@@ -97,5 +99,5 @@ img {
     color: white;
     text-align: center;
     padding: 5px;
-    margin: 0px;
+    margin: 10px;
   }
