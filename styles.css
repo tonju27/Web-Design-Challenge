@@ -8,7 +8,7 @@ img {
   
   h1, h2, h3{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgbrgb(32, 90, 178);
+    color: lightseagreen;
   }
   
   h1{
@@ -51,9 +51,6 @@ img {
   
   .col {
     width: 100%;
-    /* border: black 1px solid; */
-    /* Font color */
-    /* color:blue;  */
   } 
   
   .homebtn{
@@ -63,7 +60,7 @@ img {
   
   .homebtn a{
     width: 110px;
-    background: rgb(32, 90, 178);
+    background: lightseagreen;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     font-weight: bold;
@@ -71,7 +68,7 @@ img {
     text-align: center;
     display: block;
     padding: 14px;
-    margin: 0px 0px 0px 0px;
+    margin: 10px;
   }
   
   .divtop{
