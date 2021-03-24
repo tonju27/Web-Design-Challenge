@@ -37,7 +37,10 @@ img {
   .navbar{
       position: absolute;
       right: 10px;
-      
+      font-size: 18px;
+      font-weight: bold;
+      color: black;
+      background: lightseagreen;
   }
   
   .navbar a{
@@ -66,7 +69,7 @@ img {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     font-weight: bold;
-    color: white;
+    color: black;
     text-align: center;
     display: block;
     padding: 14px;
@@ -74,7 +77,7 @@ img {
   }
   
   .divtop{
-    background-color: white;
+    background-color: lightgrey;
     z-index:2;
   }
   
